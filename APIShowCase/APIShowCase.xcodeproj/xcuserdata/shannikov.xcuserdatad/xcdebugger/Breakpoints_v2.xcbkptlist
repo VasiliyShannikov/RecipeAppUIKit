@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D287C752-4E26-49B8-9E2C-66C3AA045BE2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A - a5274658b7d71de4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A - d5989cde0e5eadb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A - 6eee500ec2c3ffc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A - d5989cde0e5ead16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "6F8E2E0F-8CD2-4E67-8642-CE0FA9484B7A - 6eee500ec2c3ffe7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - a5274658b7d71c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - 6eee500ec2c3fe44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - a5274658b7d71de4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - 6eee500ec2c3ffe7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - a5274658b7d71c05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - d5989cde0e5ead16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "33EC41B8-8651-4FE0-8B03-75773274E4A6 - a5274658b7d71c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in APIShowCase.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "495C8242-DCF0-4817-87D0-CA72EA6CA385"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "495C8242-DCF0-4817-87D0-CA72EA6CA385 - 2e1e39b283863d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "495C8242-DCF0-4817-87D0-CA72EA6CA385 - 2e1e39b283863d62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "495C8242-DCF0-4817-87D0-CA72EA6CA385 - 2e1e39b283863dde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49693FBC-D4F7-4471-A9A2-0E418F67BBA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49693FBC-D4F7-4471-A9A2-0E418F67BBA1 - 98c71334f2cac365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.setupView() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "49693FBC-D4F7-4471-A9A2-0E418F67BBA1 - 98c71334f2cac365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.setupView() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "49693FBC-D4F7-4471-A9A2-0E418F67BBA1 - 98c71334f2cacc98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.ViewController.setupView() -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B93E7B5A-AFC2-4B05-9680-C9D187332C51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7184AD29-C6AF-4844-8D5F-277A0B44A0C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/CategoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C1F7FB8-58D5-4484-AD05-06FE3E186666"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIShowCase/MealsPreview/MealsPreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C1F7FB8-58D5-4484-AD05-06FE3E186666 - 2be0016459e5d62a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.MealsPreviewViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/MealsPreview/MealsPreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "5C1F7FB8-58D5-4484-AD05-06FE3E186666 - 2be0016459e5d60b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIShowCase.MealsPreviewViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "APIShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/APIShowCase/APIShowCase/MealsPreview/MealsPreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
